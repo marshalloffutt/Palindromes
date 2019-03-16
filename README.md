@@ -3,7 +3,7 @@
 ## Description
 A console program that takes input from the user, and checks to see if the words or phrase is a palindrome. 
 
-Test Cases	
+Examples	
 --------
 | Input                              |  Output |
 |------------------------------------|---------|
